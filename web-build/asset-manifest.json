@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/static/js/main.8a1a9ce5.js",
-    "static/js/779.3ac44560.js": "/static/js/779.3ac44560.js",
+    "main.js": "/static/js/main.ecf1b86d.js",
+    "static/js/779.2ed098b0.js": "/static/js/779.2ed098b0.js",
     "static/media/bsu3.png": "/static/media/bsu3.c83ce3608b51a6e343e3.png",
     "static/media/mapping_bgmain.png": "/static/media/mapping_bgmain.195b99c89c786d970909.png",
     "static/media/reviewall2.png": "/static/media/reviewall2.e6d2504fa8609310c375.png",
@@ -21,11 +21,16 @@
     "static/media/FE-LG3.png": "/static/media/FE-LG3.eb69e56c4ee980a32b21.png",
     "static/media/s_bg1.png": "/static/media/s_bg1.a1a61b4af2919e8eab05.png",
     "static/media/sd-bg.png": "/static/media/sd-bg.4ea1414d6576fc244e15.png",
+    "static/media/SCIT_2nd.png": "/static/media/SCIT_2nd.1e15aa9296e24217ee50.png",
     "static/media/menu-bg9.png": "/static/media/menu-bg9.bb3b4a28b1564d6910a3.png",
     "static/media/CEAFA_4th.png": "/static/media/CEAFA_4th.fcefc22d74eb5a1bf9e9.png",
     "static/media/SDCIT_2nd.png": "/static/media/SDCIT_2nd.81fa488a18893f34629c.png",
     "static/media/CIT_4th.png": "/static/media/CIT_4th.636cb8b9ce5a91cb4a5d.png",
     "static/media/CIT_3rd.png": "/static/media/CIT_3rd.771590bd785eeef2c0a6.png",
+    "static/media/SCIT_4th.png": "/static/media/SCIT_4th.5987baa8c9730a72a5fa.png",
+    "static/media/SCIT_3rd.png": "/static/media/SCIT_3rd.edf986bcdfc946a50b3e.png",
+    "static/media/SCIT_1st.png": "/static/media/SCIT_1st.4c05ce37b253fa553c2a.png",
+    "static/media/SCIT_5th.png": "/static/media/SCIT_5th.4a766d3e01ee89a94d61.png",
     "static/media/Feather.ttf": "/static/media/Feather.0f5d9cede2e831f3fc80.ttf",
     "static/media/SDCIT_3rd.png": "/static/media/SDCIT_3rd.529962bc66193d5e0627.png",
     "static/media/FESSC_3rd.png": "/static/media/FESSC_3rd.f18af108907466681b6b.png",
@@ -37,8 +42,11 @@
     "static/media/FDC_1st.png": "/static/media/FDC_1st.5e1f3dab235a6809d556.png",
     "static/media/eqc_logo3.png": "/static/media/eqc_logo3.078cef3008e7aa663e9a.png",
     "static/media/SDCIT_5TH.png": "/static/media/SDCIT_5TH.ddb61a7f0982ca3b2e87.png",
+    "static/media/SFDC_2nd_P1.png": "/static/media/SFDC_2nd_P1.e2c3f5b4a888aa77b6ad.png",
     "static/media/FESSC_1st.png": "/static/media/FESSC_1st.f3ac83478a6a07605be0.png",
     "static/media/FERGR_1st.png": "/static/media/FERGR_1st.e4a956235c512cd61148.png",
+    "static/media/SFDC_1st_P1.png": "/static/media/SFDC_1st_P1.36eb17f2313c725459e2.png",
+    "static/media/SFDC_1st_P2.png": "/static/media/SFDC_1st_P2.b30218661d560adcf066.png",
     "static/media/CIT_2nd.png": "/static/media/CIT_2nd.7370be8b29664cf469d3.png",
     "static/media/FERGR_2nd.png": "/static/media/FERGR_2nd.2c9b1197eb701e2974c5.png",
     "static/media/CIT_1st.png": "/static/media/CIT_1st.efbf3031cb0e362c1214.png",
@@ -48,12 +56,12 @@
     "static/media/FDC_2nd_2P.png": "/static/media/FDC_2nd_2P.76907844b313dda3792a.png",
     "static/media/FESSC_2nd.png": "/static/media/FESSC_2nd.467299e874c3ce264fec.png",
     "static/media/SD_CICS_1st.png": "/static/media/SD_CICS_1st.60661ea7792a2d346e48.png",
-    "static/media/CIT_S.png": "/static/media/CIT_S.43162c523e4245919036.png",
     "static/media/CEAFA_1st.png": "/static/media/CEAFA_1st.71c747053dfa18c1f7cd.png",
     "static/media/CEAFA_3rd.png": "/static/media/CEAFA_3rd.8b81d4bfb06845c8accb.png",
     "static/media/SD_CICS_2nd.png": "/static/media/SD_CICS_2nd.906b2bc7a4dd9c0bdb8f.png",
     "static/media/SD_CICS_5th.png": "/static/media/SD_CICS_5th.0bd5326febc967180180.png",
     "static/media/CICS_1st.png": "/static/media/CICS_1st.f7ff57fd322fb8fa81d7.png",
+    "static/media/SFDC_2nd_P2.png": "/static/media/SFDC_2nd_P2.81b61f6443036e2bc49b.png",
     "static/media/SD_CICS_3rd.png": "/static/media/SD_CICS_3rd.3e4533839e93dbb5a36f.png",
     "static/media/CICS_3rd.png": "/static/media/CICS_3rd.4a140bda72fac34721a9.png",
     "static/media/CEAFA_5th.png": "/static/media/CEAFA_5th.3cdf2d0ab6c9382c0eba.png",
@@ -72,11 +80,11 @@
     "favicon-16.png": "/favicon-16.png",
     "manifest.json": "/manifest.json",
     "serve.json": "/serve.json",
-    "main.8a1a9ce5.js.map": "/static/js/main.8a1a9ce5.js.map",
-    "779.3ac44560.js.map": "/static/js/779.3ac44560.js.map"
+    "main.ecf1b86d.js.map": "/static/js/main.ecf1b86d.js.map",
+    "779.2ed098b0.js.map": "/static/js/779.2ed098b0.js.map"
   },
   "entrypoints": [
-    "static/js/779.3ac44560.js",
-    "static/js/main.8a1a9ce5.js"
+    "static/js/779.2ed098b0.js",
+    "static/js/main.ecf1b86d.js"
   ]
 }
